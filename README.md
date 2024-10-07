@@ -1,6 +1,6 @@
-This gives a simple row widget in flutter
+This gives a simple column widget in flutter
 
--  the elements / icons in the row are aligned in manner of
+-  the elements / icons in the column are aligned in manner of
   - center
   - spacearound
   - spaceevenly
