@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Two Rows Example'),
+          title: Text('Two Columns Example'),
         ),
         body: Row(
           children: <Widget>[
